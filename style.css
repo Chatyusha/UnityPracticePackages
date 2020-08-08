@@ -1,0 +1,42 @@
+.head {
+    height: 350px;
+    padding: 20px;
+    background-color: skyblue;
+}
+.head_title {
+    font-family: 'Courier New';
+    height: 100;
+    padding-left: 20px;
+    color:black;
+    border-bottom:3px solid gray;
+}
+.head_title h1 {
+    font-size: 60px;
+}
+.index {
+    margin: 20px;
+    width: 300px;
+    border:2px solid snow;
+    font-size: 30px;
+}
+
+.section {
+    margin-top: 5px;
+    padding-top: 5px;
+    border-top:3px solid gray;
+}
+
+.practice {
+    padding: 20px;
+    background-color: skyblue;
+}
+.contents {
+    margin-left: 120px;
+}
+.contents h1 {
+    font-size: 60px;
+    color: gray;
+}
+.contents a {
+    color: black;
+}
