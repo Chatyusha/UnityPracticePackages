@@ -8,7 +8,6 @@
     height: 100;
     padding-left: 20px;
     color:black;
-    border-bottom:3px solid gray;
 }
 .head_title h1 {
     font-size: 60px;
@@ -25,15 +24,13 @@
 }
 
 .section {
-    margin-top: 5px;
-    padding-top: 5px;
-    border-top:3px solid gray;
+    border-bottom:3px solid gray;
 }
 
 .practice , .download{
     padding: 20px;
     background-color: skyblue;
-    border-bottom:3px solid gray;
+    /* border-bottom:3px solid gray; */
 }
 .contents {
     margin-left: 120px;
